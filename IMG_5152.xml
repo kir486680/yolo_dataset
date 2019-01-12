@@ -1,0 +1,26 @@
+<annotation>
+	<folder>toys</folder>
+	<filename>IMG_5152.JPG</filename>
+	<path>C:\Users\kkals\Desktop\Programms\Python\Robot\Images\toys\IMG_5152.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1632</width>
+		<height>1224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>275</ymin>
+			<xmax>1051</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+</annotation>
